@@ -1,5 +1,14 @@
 ## Upload Images to Firebase and Display on Page Using React
 
-Clone this repo, cd into the project folder:-
-``` npm install
-    npm start ```
+# Tools
+* create-react-app cli
+* material css UI
+* Firebase
+* Firebase Storage
+
+# Start App
+Clone repo, install, cd into folder and run:
+```git
+npm install
+npm start
+```
